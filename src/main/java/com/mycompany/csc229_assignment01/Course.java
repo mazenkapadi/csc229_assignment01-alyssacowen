@@ -35,8 +35,8 @@ package com.mycompany.csc229_assignment01;
 public class Course {
 //here I will create the data members
     private int ID;
-    private String Name;
-    private String Code;
+    private String name;
+    private String code;
 }
 
 
