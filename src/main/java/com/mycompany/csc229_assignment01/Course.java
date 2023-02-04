@@ -37,6 +37,13 @@ public class Course {
     private int ID;
     private String name;
     private String code;
+     //here I will create the default constructor
+    public Course(){
+        ID = 0;
+        name = " ";
+        code = " ";
+    }
 }
+  
 
 
