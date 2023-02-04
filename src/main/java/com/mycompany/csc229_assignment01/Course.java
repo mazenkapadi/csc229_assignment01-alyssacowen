@@ -43,6 +43,13 @@ public class Course {
         name = " ";
         code = " ";
     }
+        //here I will create the parameterized constructor
+    public Course(int ID, String name, String code){
+        ID = ID;
+        name = name;
+        code = code;
+    }
+
 }
   
 
