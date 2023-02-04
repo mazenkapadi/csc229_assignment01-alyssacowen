@@ -49,6 +49,17 @@ public class Course {
         name = name;
         code = code;
     }
+        //here I will create the setters
+    public void setID(int ID) {
+        this.ID = ID;
+    }
+    public void setName(String name) {
+        this.name = name;
+    }
+    public void setCode(String code) {
+        this.code = code;
+    }
+
 
 }
   
